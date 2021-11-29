@@ -1,7 +1,5 @@
 import os, sys, re, csv, netmiko, time, signal
 from getpass import getpass
-from tqdm import tqdm
-from colorama import Fore, Back, init, deinit
 
 # Initiating COLORAMA
 init()
